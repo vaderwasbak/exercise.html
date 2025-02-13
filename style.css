@@ -1,0 +1,42 @@
+body {
+    background-color: lightslategray;
+    font-family: Garamond, bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.seizoenenSection {
+    background-color: #d3d3d3;
+    width: 80%;
+    margin: 30px auto;
+    padding: 15px 20px 30px 20px;
+    border-radius: 25px;
+}
+
+h1 {
+    color: #000;
+    font-size: 2em;
+}
+
+h2 {
+    color: #000;
+    font-size: 1.8em;
+}
+
+h3 {
+    color: #000;
+    font-size: 1.2em;
+}
+
+h4 {
+    color: #000;
+    font-size: 1.2em;
+}
+
+p {
+    color: #000;
+    font-size: 1em;
+    font-family: Garamond, sans-serif;
+}
